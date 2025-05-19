@@ -45,7 +45,8 @@
   </footer>
 
 </body>
-</html>* {
+</html>
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -87,8 +88,6 @@ header nav a {
 }
 
 .hero h1 {
-  font-size: 3em;
-  margin-bottom.hero h1 {
   font-size: 3em;
   margin-bottom: 20px;
 }
